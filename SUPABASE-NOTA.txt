@@ -1,0 +1,7 @@
+Supabase anda sudah siap.
+Cloudflare Secrets yang perlu dimasukkan:
+SUPABASE_URL
+SUPABASE_SERVICE_ROLE_KEY
+ADMIN_TOKEN
+
+JANGAN masukkan service-role key dalam HTML.
